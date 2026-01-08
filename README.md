@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Hao Tian>`
-- **CCID:** `<htian9>`
+- **Full Name:** `Hao Tian`
+- **CCID:** `htian9`
 
 ## References and Resources
 
@@ -14,4 +14,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Hao Tian`    | `htian9` |
-| `<N/A` | `<N/A`  |
+| `N/A` | `N/A`  |
